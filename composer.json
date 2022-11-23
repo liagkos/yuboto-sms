@@ -10,8 +10,8 @@
     }
   ],
   "require": {
-    "guzzlehttp/guzzle": "6.3.3",
-    "nesbot/carbon": "2.25.2",
+    "guzzlehttp/guzzle": "^7.5.0",
+    "nesbot/carbon": "^2.53.1",
     "ext-json": "*"
   },
   "autoload": {
